@@ -1,0 +1,314 @@
+{
+  "basics": {
+    "name": "Yannick Heinrich",
+    "label": "Programmer",
+    "picture": "",
+    "email": "yannick.heinrich@gmail.com",
+    "phone": "+41 79 233 03 19",
+    "website": "http://blog.yageek.net",
+    "summary": "",
+    "location": {
+      "address": "Chemin de Rionza 5",
+      "postalCode": "1020",
+      "city": "Renens",
+      "countryCode": "CH",
+      "region": "Vaud"
+    },
+    "about": "Some element about",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "yageek",
+        "url": "https://twitter.com/yageek"
+      },
+      {
+        "network": "Github",
+        "username": "yageek",
+        "url": "https://github.com/yageek"
+      },
+      {
+        "network": "instagram",
+        "username": "yageek",
+        "url": "https://www.instagram.com/yageek/"
+      },
+      {
+        "network": "linkedin",
+        "username": "yageek",
+        "url": "https://www.linkedin.com/profile/view?id=75627701"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Technology and Strategy Engineering",
+      "position": "Junior Consultant in Embedded Systems for Bosch GmbH",
+      "website": "www.technologyandstrategy.com",
+      "startDate": "2014-07",
+      "endDate": "2014-12",
+      "summary": "T&S is a consulting company working mainly with the automative industry.",
+      "highlights": [
+        "Schedulability analysis on real time operating systems",
+        "Simulation with the Inchron tool-suite",
+        "Technical support fort RTA Trace on TI Omap and Nec V850 platforms"
+      ]
+    },
+    {
+      "company": "Technology and Strategy Engineering",
+      "position": "Junior Consultant in Embedded Systems for ERSA",
+      "website": "www.technologyandstrategy.com",
+      "startDate": "2011-02",
+      "endDate": "2011-08",
+      "summary": "T&S is a consulting company working mainly with the automative industry.",
+      "highlights": [
+        "C++/Qt development",
+        "OOP conception",
+        "Qt3 to Qt4 Migration"
+      ]
+    },
+    {
+      "company": "Ausy Strasbourg",
+      "position": "iOS Junior Consultant and Coach for Alcatel-Lucent",
+      "website": "www.ausy.com/fr",
+      "startDate": "2012-10",
+      "endDate": "2013-02",
+      "summary": "Ausy is a general consulting company",
+      "highlights": [
+        "Teaching and coaching Apple technologies: Objc2.0, GCD, UIKit, KVO, MMR",
+        "Core Development on OTC Mobile for iPhone"
+      ]
+    },
+    {
+      "company": "Alcatel-Lucent Entreprise",
+      "position": "iOS Software Developer",
+      "website": "https://www.alcatel-lucent.com/",
+      "startDate": "2013-04",
+      "endDate": "2014-04",
+      "summary": "Alcatel-Lucent Entreprise is a subside of the telecommnication equipement company.",
+      "highlights": [
+        "Teaching and coaching Apple technologies",
+        "Core Development on OTC Mobile for iPhone",
+        "Migration from Subversion to Git",
+        "Started usage of Cocoapods"
+      ]
+    },
+    {
+      "company": "Revapost",
+      "position": "iOS Software Developer",
+      "website": "https://www.revapost.com/",
+      "startDate": "2014-03",
+      "endDate": "2014-10",
+      "summary": "Revapost is a swiss start-up that provides secured and encrypted emails.",
+      "highlights": [
+        "Migration of a RubyMotion application to ObjectiveC2.0"
+      ]
+    },
+    {
+      "company": "OpenWeb Technology",
+      "position": "iOS Software Developer for Pictet",
+      "website": "https://www.openwt.com/",
+      "startDate": "2015-01",
+      "endDate": "2016-02",
+      "summary": "OpenWT is a consulting company specialized in digitalization.",
+      "highlights": [
+        "Lead development for a mobile Banking Application",
+        "Setting testing environment with calabash, gitflow",
+        "Management of an offshore development team based in Asia"
+      ]
+    },
+    {
+      "company": "SQLI",
+      "position": "iOS Software Developer for Nespresso",
+      "website": "https://www.openwt.com/",
+      "startDate": "2016-03",
+      "summary": "SQLI is a consulting company specialized in digitalization.",
+      "highlights": [
+        "Lead development for a mobile Banking Application for Pictet",
+        "Setting testing environment with calabash, gitflow",
+        "Management of an offshore development team based in Asia"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "INSA Juggling Club",
+      "position": "President",
+      "startDate": "2010-01",
+      "endDate": "2014-01",
+      "summary": "Management of the club. Diabolo teaching."
+    },{
+      "organization": "iSpoiler",
+      "position": "Developer",
+      "startDate": "2012-07",
+      "summary": "iSpoiler is an open-source geocaching spoiler downloader tool",
+      "website": "http://blog.yageek.net/iSpoiler/",
+      "highlights": [
+        "Objective-C using the first runtime.",
+        "Backwards compatibility until Snow Leopoard.",
+        "Core Data and NSOperation",
+        "MMR"
+      ]
+    },{
+      "organization": "TPGWatch",
+      "position": "Developer",
+      "startDate": "2016-07",
+      "summary": "TPGWtach is an open-source swift watchOS application using the TPG API.",
+      "website": "http://github.com/yageek/TPGWatch",
+      "highlights": [
+        "Swift 2.2",
+        "Advanced NSOperations",
+        "CoreData"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut National des Sciences Appliqués de Strasbourg",
+      "area": "EEA - Embedded Systems",
+      "studyType": "Master and Engineer's degree",
+      "startDate": "2005-09",
+      "endDate": "2010-09"
+    },
+    {
+      "institution": "Université de Caen Basse-Normandie",
+      "area": "Micro-Electronics",
+      "studyType": "Master degree",
+      "startDate": "2011-09",
+      "endDate": "2012-09"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Second Ohara Price",
+      "date": "2010-04",
+      "awarder": "Région Alsace",
+      "summary": "R&D on RFID seals."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Apple Development",
+      "level": "Master",
+      "keywords": [
+        "Swift",
+        "Objective-C",
+        "iOS",
+        "macOS",
+        "watchOS",
+        "Core Data",
+        "GCD"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "Go",
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "Ruby",
+        "Rust"
+      ]
+    },
+    {
+      "name": "BDD",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Cayley"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "docker",
+        "Heroku",
+        "App Engine (Go)",
+        "Cayley"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "level": "Master",
+      "keywords": [
+        "ATMEL",
+        "Microchip",
+        "PCB Design"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Dart",
+        "Angular",
+        "Bootstrap"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Geocaching",
+      "keywords": [
+        "gpx",
+        "tresor"
+      ]
+    },
+    {
+      "name": "Juggling",
+      "keywords": [
+        "diabolo"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Guitar"
+      ]
+    },{
+      "name": "Travel",
+      "keywords": [
+        "world citizen"
+      ]
+    },{
+      "name": "Computer engineering",
+      "keywords": [
+        "open source",
+        "cloud",
+        "docker"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Serge Nakoniecznyj, Electrical Drives, Engineering Technical Services, Bosch Gmbh, serge.nakoniecznyj@de.bosch.com"
+    },
+    {
+      "name": "Bertrand Boyer, INSA EEA Teacher, Bosch Gmbh, bertrand.boyer@insa-strasbourg.fr"
+    },
+    {
+      "name": "Denis Vaudrey, Software Engineer & Team Manager, Alcatel-LucentEntreprise, denis.vaudrey@alcatel- lucent.com"
+    }
+  ]
+}
