@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Yannick Heinrich",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Software Developer",
     "email": "yannick.heinrich@gmail.com",
     "phone": "+41 79 233 03 19",
     "website": "http://blog.yageek.net",
-    "summary": "",
+    "summary": "I have been an iOS developer for more than 5 years. Before diving into Apple systems, I was used to be an engineer's in electronics before. I'm also interested in backend development using Go and Swift.",
     "location": {
       "address": "Chemin de Rionza 5",
       "postalCode": "1020",
@@ -43,8 +42,8 @@
       "company": "Technology and Strategy Engineering",
       "position": "Junior Consultant in Embedded Systems for Bosch GmbH",
       "website": "www.technologyandstrategy.com",
-      "startDate": "2014-07",
-      "endDate": "2014-12",
+      "startDate": "2014-07-01",
+      "endDate": "2014-12-01",
       "summary": "T&S is a consulting company working mainly with the automative industry.",
       "highlights": [
         "Schedulability analysis on real time operating systems",
@@ -56,8 +55,8 @@
       "company": "Technology and Strategy Engineering",
       "position": "Junior Consultant in Embedded Systems for ERSA",
       "website": "www.technologyandstrategy.com",
-      "startDate": "2011-02",
-      "endDate": "2011-08",
+      "startDate": "2011-02-01",
+      "endDate": "2011-08-01",
       "summary": "T&S is a consulting company working mainly with the automative industry.",
       "highlights": [
         "C++/Qt development",
@@ -69,8 +68,8 @@
       "company": "Ausy Strasbourg",
       "position": "iOS Junior Consultant and Coach for Alcatel-Lucent",
       "website": "www.ausy.com/fr",
-      "startDate": "2012-10",
-      "endDate": "2013-02",
+      "startDate": "2012-10-01",
+      "endDate": "2013-02-01",
       "summary": "Ausy is a general consulting company",
       "highlights": [
         "Teaching and coaching Apple technologies: Objc2.0, GCD, UIKit, KVO, MMR",
@@ -81,8 +80,8 @@
       "company": "Alcatel-Lucent Entreprise",
       "position": "iOS Software Developer",
       "website": "https://www.alcatel-lucent.com/",
-      "startDate": "2013-04",
-      "endDate": "2014-04",
+      "startDate": "2013-04-01",
+      "endDate": "2014-04-01",
       "summary": "Alcatel-Lucent Entreprise is a subside of the telecommnication equipement company.",
       "highlights": [
         "Teaching and coaching Apple technologies",
@@ -95,8 +94,8 @@
       "company": "Revapost",
       "position": "iOS Software Developer",
       "website": "https://www.revapost.com/",
-      "startDate": "2014-03",
-      "endDate": "2014-10",
+      "startDate": "2014-03-01",
+      "endDate": "2014-10-01",
       "summary": "Revapost is a swiss start-up that provides secured and encrypted emails.",
       "highlights": [
         "Migration of a RubyMotion application to ObjectiveC2.0"
@@ -106,8 +105,8 @@
       "company": "OpenWeb Technology",
       "position": "iOS Software Developer for Pictet",
       "website": "https://www.openwt.com/",
-      "startDate": "2015-01",
-      "endDate": "2016-02",
+      "startDate": "2015-01-01",
+      "endDate": "2016-02-01",
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
         "Lead development for a mobile Banking Application",
@@ -119,7 +118,7 @@
       "company": "SQLI",
       "position": "iOS Software Developer for Nespresso",
       "website": "https://www.openwt.com/",
-      "startDate": "2016-03",
+      "startDate": "2016-03-01",
       "summary": "SQLI is a consulting company specialized in digitalization.",
       "highlights": [
         "Lead development for a mobile Banking Application for Pictet",
@@ -132,13 +131,13 @@
     {
       "organization": "INSA Juggling Club",
       "position": "President",
-      "startDate": "2010-01",
-      "endDate": "2014-01",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
       "summary": "Management of the club. Diabolo teaching."
     },{
       "organization": "iSpoiler",
       "position": "Developer",
-      "startDate": "2012-07",
+      "startDate": "2012-07-01",
       "summary": "iSpoiler is an open-source geocaching spoiler downloader tool",
       "website": "http://blog.yageek.net/iSpoiler/",
       "highlights": [
@@ -150,7 +149,7 @@
     },{
       "organization": "TPGWatch",
       "position": "Developer",
-      "startDate": "2016-07",
+      "startDate": "2016-07-01",
       "summary": "TPGWtach is an open-source swift watchOS application using the TPG API.",
       "website": "http://github.com/yageek/TPGWatch",
       "highlights": [
@@ -165,21 +164,21 @@
       "institution": "Institut National des Sciences Appliqués de Strasbourg",
       "area": "EEA - Embedded Systems",
       "studyType": "Master and Engineer's degree",
-      "startDate": "2005-09",
-      "endDate": "2010-09"
+      "startDate": "2005-09-01",
+      "endDate": "2010-09-01"
     },
     {
       "institution": "Université de Caen Basse-Normandie",
       "area": "Micro-Electronics",
       "studyType": "Master degree",
-      "startDate": "2011-09",
-      "endDate": "2012-09"
+      "startDate": "2011-09-01",
+      "endDate": "2012-09-01"
     }
   ],
   "awards": [
     {
       "title": "Second Ohara Price",
-      "date": "2010-04",
+      "date": "2010-04-01",
       "awarder": "Région Alsace",
       "summary": "R&D on RFID seals."
     }
@@ -222,7 +221,7 @@
       ]
     },
     {
-      "name": "Cloud",
+      "name": "Backend",
       "level": "Intermediate",
       "keywords": [
         "docker",
