@@ -121,9 +121,9 @@
       "startDate": "2016-03-01",
       "summary": "SQLI is a consulting company specialized in digitalization.",
       "highlights": [
-        "Lead development for a mobile Banking Application for Pictet",
-        "Setting testing environment with calabash, gitflow",
-        "Management of an offshore development team based in Asia"
+        "Development on the BTLE communication framework.",
+        "Unit testing.",
+        "Development of new screens."
       ]
     }
   ],
