@@ -109,7 +109,7 @@
       "endDate": "2016-02-01",
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
-        "Lead development for a mobile Banking Application",
+        "Lead development for the Pictet Wealth mobile Banking Application",
         "Setting testing environment with calabash, gitflow",
         "Management of an offshore development team based in Asia"
       ]
@@ -123,7 +123,7 @@
       "highlights": [
         "CoreBluetooth BTLE development for the Expert and Prodigio machines",
         "Unit testing",
-        "Archictecture and development of new screens"
+        "Archictecture and development of new screens for the Nespresso application"
       ]
     }
   ],
@@ -161,7 +161,7 @@
   ],
   "education": [
     {
-      "institution": "Institut National des Sciences Appliqués de Strasbourg",
+      "institution": "Institut National des Sciences Appliquées de Strasbourg",
       "area": "EEA - Embedded Systems",
       "studyType": "Master and Engineer's degree",
       "startDate": "2005-09-01",
@@ -295,7 +295,8 @@
       "keywords": [
         "open source",
         "cloud",
-        "docker"
+        "docker",
+        "github"
       ]
     }
   ],
