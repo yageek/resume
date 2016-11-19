@@ -44,7 +44,7 @@
       "website": "www.technologyandstrategy.com",
       "startDate": "2014-07-01",
       "endDate": "2014-12-01",
-      "summary": "T&S is a consulting company working mainly with the automative industry.",
+      "summary": "T&S is a consulting company working mainly with the automotive industry.",
       "highlights": [
         "Schedulability analysis on real time operating systems",
         "Simulation with the Inchron tool-suite",
@@ -57,7 +57,7 @@
       "website": "www.technologyandstrategy.com",
       "startDate": "2011-02-01",
       "endDate": "2011-08-01",
-      "summary": "T&S is a consulting company working mainly with the automative industry.",
+      "summary": "T&S is a consulting company working mainly with the automotive industry.",
       "highlights": [
         "C++/Qt development",
         "OOP conception",
@@ -82,7 +82,7 @@
       "website": "https://www.alcatel-lucent.com/",
       "startDate": "2013-04-01",
       "endDate": "2014-04-01",
-      "summary": "Alcatel-Lucent Entreprise is a subside of the telecommnication equipement company.",
+      "summary": "Alcatel-Lucent Entreprise is a subside of the telecommunication equipment company.",
       "highlights": [
         "Teaching and coaching Apple technologies",
         "Core Development on OTC Mobile for iPhone",
@@ -117,13 +117,13 @@
     {
       "company": "SQLI",
       "position": "iOS Software Developer for Nespresso",
-      "website": "https://www.openwt.com/",
+      "website": "http://sqli.ch",
       "startDate": "2016-03-01",
-      "summary": "SQLI is a consulting company specialized in digitalization.",
+      "summary": "SQLI is a consulting company.",
       "highlights": [
-        "Development on the BTLE communication framework.",
-        "Unit testing.",
-        "Development of new screens."
+        "CoreBluetooth BTLE development for the Expert and Prodigio machines",
+        "Unit testing",
+        "Archictecture and development of new screens"
       ]
     }
   ],
@@ -141,7 +141,7 @@
       "summary": "iSpoiler is an open-source geocaching spoiler downloader tool",
       "website": "http://blog.yageek.net/iSpoiler/",
       "highlights": [
-        "Objective-C using the first runtime.",
+        "Objective-C using the legacy runtime.",
         "Backwards compatibility until Snow Leopoard.",
         "Core Data and NSOperation",
         "MMR"
@@ -150,7 +150,7 @@
       "organization": "TPGWatch",
       "position": "Developer",
       "startDate": "2016-07-01",
-      "summary": "TPGWtach is an open-source swift watchOS application using the TPG API.",
+      "summary": "TPGWatch is an open-source Swift watchOS application using the TPG API.",
       "website": "http://github.com/yageek/TPGWatch",
       "highlights": [
         "Swift 2.2",
