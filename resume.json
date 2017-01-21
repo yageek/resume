@@ -123,7 +123,7 @@
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
         "Development of a internal Web application using Angular",
-        "Interaction with SAP web services with REST"
+        "Interaction with SAP web services over REST"
       ]
     },
     {
@@ -134,7 +134,7 @@
       "endDate": "2016-12-01",
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
-        "Development of a internal migration tool in Go"
+        "Development of an internal migration tool in Go"
       ]
     },
     {
