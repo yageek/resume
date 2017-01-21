@@ -106,12 +106,35 @@
       "position": "iOS Software Developer for Pictet",
       "website": "https://www.openwt.com/",
       "startDate": "2015-01-01",
-      "endDate": "2016-02-01",
+      "endDate": "2015-11-01",
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
         "Lead development for the Pictet Wealth mobile Banking Application",
         "Setting testing environment with calabash, gitflow",
         "Management of an offshore development team based in Asia"
+      ]
+    },
+     {
+      "company": "OpenWeb Technology",
+      "position": "Javascript Front-End Developer for SICPA",
+      "website": "https://www.openwt.com/",
+      "startDate": "2015-12-01",
+      "endDate": "2016-02-29",
+      "summary": "OpenWT is a consulting company specialized in digitalization.",
+      "highlights": [
+        "Development of a internal Web application using Angular",
+        "Interaction with SAP web services with REST"
+      ]
+    },
+    {
+      "company": "OpenWeb Technology",
+      "position": "SQL Server Database Migration Coach for SICPA",
+      "website": "https://www.openwt.com/",
+      "startDate": "2015-11-01",
+      "endDate": "2016-12-01",
+      "summary": "OpenWT is a consulting company specialized in digitalization.",
+      "highlights": [
+        "Development of a internal migration tool in Go"
       ]
     },
     {
@@ -206,8 +229,15 @@
         "C++",
         "Java",
         "Python",
-        "Ruby",
-        "Rust"
+        "Ruby"
+      ]
+    },
+    {
+      "name": "Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Rust",
+        "ES6"
       ]
     },
     {
