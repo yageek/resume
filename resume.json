@@ -118,23 +118,12 @@
       "company": "OpenWeb Technology",
       "position": "Javascript Front-End Developer for SICPA",
       "website": "https://www.openwt.com/",
-      "startDate": "2015-12-01",
+      "startDate": "2015-11-01",
       "endDate": "2016-02-29",
       "summary": "OpenWT is a consulting company specialized in digitalization.",
       "highlights": [
         "Development of a internal Web application using Angular",
         "Interaction with SAP web services over REST"
-      ]
-    },
-    {
-      "company": "OpenWeb Technology",
-      "position": "SQL Server Database Migration Coach for SICPA",
-      "website": "https://www.openwt.com/",
-      "startDate": "2015-11-01",
-      "endDate": "2016-12-01",
-      "summary": "OpenWT is a consulting company specialized in digitalization.",
-      "highlights": [
-        "Development of an internal migration tool in Go"
       ]
     },
     {
@@ -226,34 +215,33 @@
       "keywords": [
         "Go",
         "C",
-        "C++",
-        "Java",
-        "Python",
-        "Ruby"
+        "C++"
       ]
     },
     {
       "name": "Development",
       "level": "Intermediate",
       "keywords": [
-        "Rust",
-        "ES6"
+        "Java",
+        "Python",
+        "Ruby",
+        "Javascript"
       ]
     },
     {
       "name": "BDD",
       "level": "Intermediate",
       "keywords": [
-        "MySQL",
+        "MySQL/MariaDB",
         "MongoDB",
-        "Redis",
-        "Cayley"
+        "Redis"
       ]
     },
     {
       "name": "Backend",
       "level": "Intermediate",
       "keywords": [
+        "NodeJS",
         "docker",
         "Heroku",
         "App Engine (Go)",
@@ -273,12 +261,11 @@
       "name": "Web Development",
       "level": "Intermediate",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "Javascript",
-        "Dart",
-        "Angular",
-        "Bootstrap"
+        "Angular1",
+        "VueJS2",
+        "Webpack/gulp/babel"
       ]
     }
   ],
@@ -293,7 +280,7 @@
     },
     {
       "language": "German",
-      "fluency": "Fluent"
+      "fluency": "Full professional proficiency"
     }
   ],
   "interests": [
@@ -332,10 +319,13 @@
   ],
   "references": [
     {
-      "name": "Serge Nakoniecznyj, Electrical Drives, Engineering Technical Services, Bosch Gmbh, serge.nakoniecznyj@de.bosch.com"
+      "name": "Cyrille Démare, Lead iOS, Apptitude, demare.cyrille@gmail.com"
     },
     {
-      "name": "Bertrand Boyer, INSA EEA Teacher, Bosch Gmbh, bertrand.boyer@insa-strasbourg.fr"
+      "name": "Laurent Chazallon, CTO of OpenWeb Technology, lchazallon@openwt.com"
+    },
+    {
+      "name": "Serge Nakoniecznyj, Electrical Drives, Engineering Technical Services, Bosch Gmbh, serge.nakoniecznyj@de.bosch.com"
     },
     {
       "name": "Denis Vaudrey, Software Engineer & Team Manager, Alcatel-LucentEntreprise, denis.vaudrey@alcatel- lucent.com"
